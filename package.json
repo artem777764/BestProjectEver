@@ -1,0 +1,10 @@
+{
+  "name": "BestProjectEver",
+  "version": "1.0.0",
+  "description": "BestDescriptionEverForVestApplicationEver",
+  "main": "index.js",
+  "repository": "https://github.com/artem777764/BestProjectEver.git",
+  "author": "artem777764 <artem200513286@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
